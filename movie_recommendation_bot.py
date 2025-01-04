@@ -75,7 +75,7 @@ if __name__ == "__main__":
     import os
 
     # Replace 'YOUR_BOT_TOKEN' with your actual Telegram bot token
-    BOT_TOKEN = "7917642093:AAHMRlPaqzJXbKel_5riuckZzoMpsaAPSDw"
+    BOT_TOKEN = ""
 
     application = ApplicationBuilder().token(BOT_TOKEN).build()
 
